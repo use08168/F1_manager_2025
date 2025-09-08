@@ -1,0 +1,12 @@
+project_id,team_id,planned_round,title,area,cost_musd,eta_rounds,remaining_rounds,risk,efficiency,expected_gain_hint,status,reason,paid,charged_musd
+MCL-1-engine-9208,MCL,1,Upgrade Engine Power,engine,15.0,3,0,high,0.6,0.3,ready_to_apply,Increasing engine power will provide better straight-line speed but may affect reliability.,,
+MCL-1-engine-9208,MCL,1,Upgrade Engine Power,engine,15.0,3,0,high,0.6,0.3,ready_to_apply,Increasing engine power will provide better straight-line speed but may affect reliability.,,
+MCL-1-engine-9208,MCL,1,Upgrade Engine Power,engine,15.0,3,1,high,0.6,0.3,in_progress,Increasing engine power will provide better straight-line speed but may affect reliability.,,
+FER-1-brakes-8449,FER,1,Upgrade Braking System,brakes,10.0,1,1,low,0.6,0.4,in_progress,Better brakes will improve lap times and safety during races.,1.0,10.0
+RBR-1-brakes-4164,RBR,1,Improve Brake System,brakes,20.0,1,1,low,0.9,0.5,in_progress,Enhancing brake reliability will improve safety and performance during races.,1.0,20.0
+RBR-1-front_wing-9333,RBR,1,Optimize Front Wing Design,front_wing,30.0,2,2,mid,0.8,0.6,in_progress,Improving front wing aerodynamics will enhance overall vehicle grip.,1.0,30.0
+FER-1-brakes-5258,FER,1,Upgrade Braking System,brakes,6.0,1,1,low,0.6,0.3,in_progress,Better brakes will improve lap times and safety.,1.0,6.0
+MER-1-front_wing-597,MER,1,Optimize Front Wing Design,front_wing,25.0,2,2,mid,0.7,0.5,in_progress,Enhancing front wing aerodynamics can improve overall vehicle grip.,1.0,25.0
+MER-1-engine-4892,MER,1,Upgrade Engine Efficiency,engine,30.0,3,3,high,0.8,0.6,in_progress,Increasing engine performance will enhance speed but may require more development time.,1.0,30.0
+FER-1-front_wing-8330,FER,1,Optimize Front Wing Design,front_wing,7.0,2,2,mid,0.8,0.5,in_progress,Improving front wing aerodynamics can enhance overall vehicle grip.,1.0,7.0
+FER-1-brakes-1686,FER,1,Upgrade Brake System,brakes,5.0,1,1,low,0.6,0.4,in_progress,Better brakes will enhance reliability and performance during races.,1.0,5.0

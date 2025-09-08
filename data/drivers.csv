@@ -1,0 +1,21 @@
+driver_id,name,number,nationality,age,team_id,team_name,pace,quali,wet,tire_mgmt,aggression,consistency,awareness,development,salary_musd,contract_end_round
+DRI_PIASTRI,Oscar Piastri,81,AU,24,MCL,McLaren,90,91,86,84,58,88,87,84,8.0,24
+DRI_NORRIS,Lando Norris,4,UK,25,MCL,McLaren,92,93,88,86,62,90,88,85,12.0,24
+DRI_LECLERC,Charles Leclerc,16,MC,27,FER,Ferrari,93,94,87,83,60,89,86,84,14.0,24
+DRI_HAMILTON,Lewis Hamilton,44,UK,40,FER,Ferrari,91,92,89,84,58,90,90,83,20.0,24
+DRI_VERSTAPPEN,Max Verstappen,1,NL,27,RBR,Red Bull Racing,98,98,92,89,65,96,92,90,40.0,24
+DRI_TSUNODA,Yuki Tsunoda,22,JP,25,RBR,Red Bull Racing,87,87,84,82,70,84,83,80,6.0,24
+DRI_RUSSELL,George Russell,63,UK,27,MER,Mercedes,90,91,86,84,60,88,88,84,12.0,24
+DRI_ANTONELLI,Kimi Antonelli,12,IT,19,MER,Mercedes,84,85,82,80,62,82,81,86,3.0,24
+DRI_STROLL,Lance Stroll,18,CA,26,AMR,Aston Martin,82,83,80,81,58,82,83,78,5.0,24
+DRI_ALONSO,Fernando Alonso,14,ES,44,AMR,Aston Martin,89,90,86,85,59,90,90,80,10.0,24
+DRI_GASLY,Pierre Gasly,10,FR,29,ALP,Alpine,86,87,84,82,60,85,85,80,7.0,24
+DRI_COLAPINTO,Franco Colapinto,43,AR,22,ALP,Alpine,80,81,78,79,61,80,79,82,2.0,24
+DRI_OCON,Esteban Ocon,31,FR,29,HAS,Haas,85,86,83,82,59,85,85,79,7.0,24
+DRI_BEARMAN,Oliver Bearman,87,UK,20,HAS,Haas,83,84,80,80,62,81,79,83,3.0,24
+DRI_LAWSON,Liam Lawson,30,NZ,23,RB,Racing Bulls,85,86,82,81,63,83,82,82,4.0,24
+DRI_HADJAR,Isack Hadjar,6,FR,20,RB,Racing Bulls,81,82,79,79,64,79,78,83,2.5,24
+DRI_ALBON,Alex Albon,23,TH,29,WIL,Williams,86,87,83,82,60,85,84,80,6.0,24
+DRI_SAINZ,Carlos Sainz,55,ES,31,WIL,Williams,90,90,86,85,59,89,88,82,18.0,24
+DRI_HULKENBERG,Nico Hulkenberg,27,DE,37,SAU,Sauber,84,85,81,81,58,84,85,78,6.0,24
+DRI_BORTOLETO,Gabriel Bortoleto,5,BR,20,SAU,Sauber,81,82,79,79,62,79,78,83,2.5,24
