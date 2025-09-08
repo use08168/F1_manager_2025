@@ -1,0 +1,25 @@
+track_id,name,country,city,round,is_street,length_km,laps,race_distance_km,corners,drs_zones,pit_loss_sec,sc_base_prob,vsc_base_prob,rain_base_prob,abrasion_index,grip_index,overtake_index,temp_mean_c,temp_std_c
+2025-01-albert-park-circuit,Albert Park Circuit,Australia,Melbourne,1,True,5.278,58,306.124,14,4,20.73,0.46,0.188,0.2,0.53,0.61,0.53,18.0,4.0
+2025-02-shanghai-international-circuit,Shanghai International Circuit,China,Shanghai,2,False,5.451,56,305.256,16,2,19.96,0.36,0.212,0.25,0.52,0.69,0.47,21.0,5.0
+2025-03-suzuka-international-racing-course,Suzuka International Racing Course,Japan,Suzuka,3,False,5.807,53,307.771,18,2,20.43,0.39,0.237,0.3,0.56,0.67,0.41,19.0,4.0
+2025-04-bahrain-international-circuit,Bahrain International Circuit,Bahrain,Sakhir,4,False,5.412,57,308.484,15,3,19.91,0.345,0.187,0.02,0.5,0.7,0.55,30.0,4.0
+2025-05-jeddah-corniche-circuit,Jeddah Corniche Circuit,Saudi Arabia,Jeddah,5,True,6.174,50,308.7,27,3,21.91,0.55,0.275,0.02,0.65,0.55,0.3,30.0,4.0
+2025-06-miami-international-autodrome,Miami International Autodrome,United States,Miami Gardens,6,True,5.412,57,308.484,19,3,20.91,0.535,0.262,0.7,0.63,0.56,0.33,29.0,4.0
+2025-07-autodromo-enzo-e-dino-ferrari,Autodromo Enzo e Dino Ferrari,Italy,Imola,7,False,4.909,63,309.267,19,2,19.25,0.405,0.25,0.3,0.58,0.66,0.38,23.0,5.0
+2025-08-circuit-de-monaco,Circuit de Monaco,Monaco,Monte Carlo,8,True,3.337,78,260.286,19,1,18.18,0.535,0.287,0.25,0.63,0.56,0.23,23.0,5.0
+2025-09-circuit-de-barcelona-catalunya,Circuit de Barcelona-Catalunya,Spain,Montmeló,9,False,4.657,66,307.362,14,2,18.92,0.33,0.188,0.2,0.48,0.71,0.53,24.0,5.0
+2025-10-circuit-gilles-villeneuve,Circuit Gilles Villeneuve,Canada,Montreal,10,True,4.361,70,305.27,14,2,19.53,0.46,0.212,0.35,0.53,0.61,0.43,24.0,5.0
+2025-11-red-bull-ring,Red Bull Ring,Austria,Spielberg,11,False,4.326,71,307.146,10,3,18.48,0.27,0.125,0.3,0.4,0.75,0.7,24.0,5.0
+2025-12-silverstone-circuit,Silverstone Circuit,Great Britain,Silverstone,12,False,5.891,52,306.332,18,2,20.54,0.39,0.237,0.5,0.56,0.67,0.41,22.0,5.0
+2025-13-circuit-de-spa-francorchamps,Circuit de Spa-Francorchamps,Belgium,Stavelot,13,False,7.004,44,308.176,19,2,22.0,0.405,0.25,0.6,0.58,0.66,0.38,22.0,5.0
+2025-14-hungaroring,Hungaroring,Hungary,Budapest,14,False,4.381,70,306.67,14,2,18.55,0.33,0.188,0.25,0.48,0.71,0.53,24.0,5.0
+2025-15-circuit-zandvoort,Circuit Zandvoort,Netherlands,Zandvoort,15,False,4.259,72,306.648,14,2,18.39,0.33,0.188,0.45,0.48,0.71,0.53,22.0,5.0
+2025-16-autodromo-nazionale-monza,Autodromo Nazionale Monza,Italy,Monza,16,False,5.793,53,307.029,11,2,20.41,0.285,0.15,0.3,0.42,0.74,0.62,23.0,5.0
+2025-17-baku-city-circuit,Baku City Circuit,Azerbaijan,Baku,17,True,6.003,51,306.153,20,2,21.69,0.55,0.287,0.2,0.65,0.55,0.25,23.0,5.0
+2025-18-marina-bay-street-circuit,Marina Bay Street Circuit,Singapore,Singapore,18,True,4.94,62,306.28,19,4,20.29,0.535,0.25,0.45,0.63,0.56,0.38,30.0,3.0
+2025-19-circuit-of-the-americas,Circuit of the Americas,United States,Austin,19,False,5.513,56,308.728,20,2,20.04,0.42,0.262,0.55,0.6,0.65,0.35,22.0,5.0
+2025-20-autodromo-hermanos-rodríguez,Autodromo Hermanos Rodriguez,Mexico,Mexico City,20,False,4.304,71,305.584,17,2,18.45,0.375,0.225,0.25,0.54,0.68,0.44,22.0,5.0
+2025-21-autodromo-jose-carlos-pace,Autodromo Jose Carlos Pace,Brazil,São Paulo,21,False,4.309,71,305.939,15,2,18.46,0.345,0.2,0.4,0.5,0.7,0.5,27.0,4.0
+2025-22-las-vegas-strip-circuit,Las Vegas Strip Circuit,Las Vegas,Las Vegas,22,True,6.201,50,310.05,17,2,21.95,0.505,0.25,0.02,0.59,0.58,0.34,29.0,4.0
+2025-23-lusail-international-circuit,Lusail International Circuit,Qatar,Lusail,23,False,5.419,57,308.883,16,3,19.92,0.36,0.2,0.02,0.52,0.69,0.52,29.0,4.0
+2025-24-yas-marina-circuit,Yas Marina Circuit,United Arab Emirates,Abu Dhabi,24,False,5.281,58,306.298,16,2,19.74,0.36,0.212,0.02,0.52,0.69,0.47,28.0,4.0
